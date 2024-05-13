@@ -34,17 +34,9 @@ Helps optimize shipping strategies.
 Lists top-selling products along with their respective total sales.
 Useful for inventory management and marketing decisions.
 
-## Data Source
-The data for this dashboard comes from the Superstore Sales dataset.  
-Preprocessing steps include data cleaning, handling missing values, and aggregating sales figures.
-
-## Tools Used
-Tableau: Used for creating all visualizations.
 
 ## Installation & Usage
-Install Tableau Desktop if you want to explore the dashboard interactively.
-Clone this repository:
-git clone https://github.com/your_username/your_repo.git
-Open the .twb file in Tableau Desktop to view the dashboard.
-Author
-Feel free to reach out for questions or collaboration!
+Install Tableau Desktop if you want to explore the dashboard interactively.  
+Clone this repository:  
+git clone https://github.com/rohanshrma25/Tableau-Sales-Dashboard  
+Open the .twb file in Tableau Desktop to view the dashboard.  
