@@ -7,7 +7,7 @@ The Superstore Sales dashboard provides a detailed analysis of sales data from t
 
 ## Visualizations
 
-* KPI's:
+* KPI's:  
   Key performers such as Sales, Profit, Avg Order Value, Avg Profit Margin, Avg Shipping Cost at the top.
   
 * Market bifurcation based on chosen metric(Profit/Sales):    
