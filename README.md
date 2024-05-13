@@ -41,6 +41,5 @@ Useful for inventory management and marketing decisions.
 
 ## Installation & Usage
 Install Tableau Desktop if you want to explore the dashboard interactively.  
-Clone this repository:  
-git clone https://github.com/rohanshrma25/Tableau-Sales-Dashboard  
+Clone this repository:  https://github.com/rohanshrma25/Tableau-Sales-Dashboard  
 Open the .twb file in Tableau Desktop to view the dashboard.  
