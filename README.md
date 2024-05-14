@@ -32,7 +32,10 @@ Useful for focusing on specific product segments.
   
 * Avg Shipping Cost wrt Order Priority:  
 Shows shipping costs associated with different order priorities across markets.  
-Helps optimize shipping strategies.  
+Helps optimize shipping strategies.
+
+![image](https://github.com/rohanshrma25/Tableau-Sales-Dashboard/assets/143126097/b90d2461-b94f-4bfa-89c4-00bb6f022a4a)
+
   
 * Best Selling Products:  
 Lists top-selling products along with their respective total sales.  
@@ -42,8 +45,12 @@ Useful for inventory management and marketing decisions.
 The dashboard offers couple of interactive features to empower user in exploring and analyzing the data:  
 
 * Filtering Options:
-User can filter the whole data using the year filter provided at top right. Also, metric filter provided with first container lets the user to filter dashboard based on 'profit' or 'sales'. This allows for a customized view of the metrics according to specific year.  
+User can filter the whole data using the year filter provided at top right. Also, metric filter provided with first container lets the user to filter dashboard based on 'profit' or 'sales'. This allows for a customized view of the metrics according to specific year.
 
+![image](https://github.com/rohanshrma25/Tableau-Sales-Dashboard/assets/143126097/deef3d3d-5988-444d-a57d-650dc3cb8e27)  
+
+![image](https://github.com/rohanshrma25/Tableau-Sales-Dashboard/assets/143126097/8a04dc1e-6228-4819-8fa9-f2499fe05cfa)  
+  
 * Hover Interactions:
 Hovering over data points or visual elements provides users with additional information, such as exact values, percentage breakdowns, or tooltips explaining trends and patterns.  
 
