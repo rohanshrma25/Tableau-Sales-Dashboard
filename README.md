@@ -47,10 +47,10 @@ The dashboard offers couple of interactive features to empower user in exploring
 * Filtering Options:
 User can filter the whole dashboard using the year filter provided at top right. Also, created a parameter and its dedicated calculated field that lets the user to filter dashboard based on 'profit' or 'sales'. This allows for a customized view of the metrics according to specific year.  
   
-<img src="https://github.com/rohanshrma25/Tableau-Sales-Dashboard/assets/143126097/deef3d3d-5988-444d-a57d-650dc3cb8e27" width="500" height="550"><br>
+<img src="https://github.com/rohanshrma25/Tableau-Sales-Dashboard/assets/143126097/deef3d3d-5988-444d-a57d-650dc3cb8e27" width="500" height="550">
   
 <img src="https://github.com/rohanshrma25/Tableau-Sales-Dashboard/assets/143126097/8a04dc1e-6228-4819-8fa9-f2499fe05cfa" width="400" height="200">  
-
+<br>
 * Hover Interactions:
 Hovering over data points or visual elements provides users with additional information, such as exact values, percentage breakdowns, or tooltips explaining trends and patterns.  
 
